@@ -1,5 +1,6 @@
-# roger-puto-amo
+# Roger puto amo
 
+Por si alguno se quiere levantar el proyecto en local
 ## Project setup
 ```
 npm install
@@ -19,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
