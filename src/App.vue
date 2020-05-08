@@ -2,6 +2,9 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/rogelio.jpeg" height="150" width="150">
     <Rogelio/>
+    <footer>
+      <p>¡Made with ❤️ en mi puta casa!</p>
+    </footer>
   </div>
 </template>
 
